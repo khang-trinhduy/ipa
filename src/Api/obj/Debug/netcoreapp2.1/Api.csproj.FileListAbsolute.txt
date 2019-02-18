@@ -1,0 +1,14 @@
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.pdb

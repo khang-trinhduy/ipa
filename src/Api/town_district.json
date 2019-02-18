@@ -1,0 +1,2142 @@
+﻿{
+  "An Giang": [
+    {
+      "Town": "Thành phố Long Xuyên"
+
+    },
+    { "Town": "Thị xã Châu Đốc" },
+    { "Town": "Huyện An Phú" },
+    { "Town": "Huyện Tân Châu" },
+    { "Town": "Huyện Phú Tân" },
+    { "Town": "Huyện Tịnh Biên" },
+    { "Town": "Huyện Tri Tôn" },
+    { "Town": "Huyện Châu Phú" },
+    { "Town": "Huyện Chợ Mới" },
+    { "Town": "Huyện Châu Thành" },
+    { "Town": "Huyện Thoại Sơn" }
+  ],
+  "Bà Rịa - Vũng Tàu": [
+    {
+      "Town": "Thành phố Vũng Tàu"
+    },
+    {
+      "Town": "Thị xã Bà Rịa"
+    },
+    {
+      "Town": "Huyện Xuyên Mộc"
+    },
+    {
+      "Town": "Huyện Long Điền"
+    },
+    {
+      "Town": "Huyện Côn Đảo"
+    },
+    {
+      "Town": "Huyện Tân Thành"
+    },
+    {
+      "Town": "Huyện Châu Đức"
+    },
+    {
+      "Town": "Huyện Đất Đỏ"
+    }
+  ],
+  "Bắc Giang": [
+    {
+      "Town": "Thành phố Bắc Giang"
+    },
+    {
+      "Town": "Huyện Yên Thế"
+    },
+    {
+      "Town": "Huyện Lục Ngạn"
+    },
+    {
+      "Town": "Huyện Sơn Động"
+    },
+    {
+      "Town": "Huyện Lục Nam"
+    },
+    {
+      "Town": "Huyện Tân Yên"
+    },
+    {
+      "Town": "Huyện Hiệp Hoà"
+    },
+    {
+      "Town": "Huyện Lạng Giang"
+    },
+    {
+      "Town": "Huyện Việt Yên"
+    },
+    {
+      "Town": "Huyện Yên Dũng"
+    }
+  ],
+  "Bắc Kạn": [
+    {
+      "Town": "Thị xã Bắc Kạn"
+    },
+    {
+      "Town": "Huyện Chợ Đồn"
+    },
+    {
+      "Town": "Huyện Bạch Thông"
+    },
+    {
+      "Town": "Huyện Na Rì"
+    },
+    {
+      "Town": "Huyện Ngân Sơn"
+    },
+    {
+      "Town": "Huyện Ba Bể"
+    },
+    {
+      "Town": "Huyện Chợ Mới"
+    },
+    {
+      "Town": "Huyện Pác Nặm"
+    }
+  ],
+  "Bạc Liêu": [
+    {
+      "Town": "Thị xã Bạc Liêu"
+    },
+    {
+      "Town": "Huyện Vĩnh Lợi"
+    },
+    {
+      "Town": "Huyện Hồng Dân"
+    },
+    {
+      "Town": "Huyện Giá Rai"
+    },
+    {
+      "Town": "Huyện Phước Long"
+    },
+    {
+      "Town": "Huyện Đông Hải"
+    },
+    {
+      "Town": "Huyện Hoà Bình"
+    }
+  ],
+  "Bắc Ninh": [
+    {
+      "Town": "Thành phố Bắc Ninh"
+    },
+    {
+      "Town": "Huyện Yên Phong"
+    },
+    {
+      "Town": "Huyện Quế Võ."
+    },
+    {
+      "Town": "Huyện Tiên Du"
+    },
+    {
+      "Town": "Huyện Từ Sơn"
+    },
+    {
+      "Town": "Huyện Thuận Thành"
+    },
+    {
+      "Town": "Huyện Gia Bình"
+    },
+    {
+      "Town": "Huyện Lương Tài"
+    }
+  ],
+  "Bến Tre": [
+    {
+      "Town": "Thị xã Bến Tre"
+    },
+    {
+      "Town": "Town"
+    },
+    {
+      "Town": "Huyện Chợ Lách"
+    },
+    {
+      "Town": "Huyện Mỏ Cày"
+    },
+    {
+      "Town": "Huyện Giồng Trôm"
+    },
+    {
+      "Town": "Huyện Bình Đại"
+    },
+    {
+      "Town": "Huyện Ba Tri"
+    },
+    {
+      "Town": "Huyện Thạnh Phú"
+    }
+  ],
+  "Bình Định": [
+    {
+      "Town": "Thành phố Quy Nhơn"
+    },
+    {
+      "Town": "Huyện An Lão"
+    },
+    {
+      "Town": "Huyện Hoài Ân"
+    },
+    {
+      "Town": "Huyện Hoài Nhơn"
+    },
+    {
+      "Town": "Huyện Phù Mỹ"
+    },
+    {
+      "Town": "Huyện Phù Cát"
+    },
+    {
+      "Town": "Huyện Vĩnh Thạnh"
+    },
+    {
+      "Town": "Huyện Tây Sơn"
+    },
+    {
+      "Town": "Huyện Vân Canh"
+    },
+    {
+      "Town": "Huyện An Nhơn"
+    },
+    {
+      "Town": "Huyện Tuy Phước"
+    }
+  ],
+  "Bình Dương": [
+    {
+      "Town": "Thị xã Thủ Dầu Một"
+    },
+    {
+      "Town": "Huyện Bến Cát"
+    },
+    {
+      "Town": "Huyện Tân Uyên"
+    },
+    {
+      "Town": "Huyện Thuận An"
+    },
+    {
+      "Town": "Huyện Dĩ An"
+    },
+    {
+      "Town": "Huyện Phú Giáo"
+    },
+    {
+      "Town": "Huyện Dầu Tiếng"
+    }
+  ],
+  "Bình Phước": [
+    {
+      "Town": "Thị xã Đồng Xoài"
+    },
+    {
+      "Town": "Huyện Đồng Phú"
+    },
+    {
+      "Town": "Huyện Chơn Thành"
+    },
+    {
+      "Town": "Huyện Bình Long"
+    },
+    {
+      "Town": "Huyện Lộc Ninh"
+    },
+    {
+      "Town": "Huyện Bù Đốp"
+    },
+    {
+      "Town": "Huyện Phước Long"
+    },
+    {
+      "Town": "Huyện Bù Đăng"
+    }
+  ],
+  "Bình Thuận": [
+    {
+      "Town": "Thành phố Phan Thiết"
+    },
+    {
+      "Town": "Huyện Tuy Phong"
+    },
+    {
+      "Town": "Huyện Bắc Bình"
+    },
+    {
+      "Town": "Huyện Hàm Thuận Bắc"
+    },
+    {
+      "Town": "Huyện Hàm Thuận Nam"
+    },
+    {
+      "Town": "Huyện Hàm Tân"
+    },
+    {
+      "Town": "Huyện Đức Linh"
+    },
+    {
+      "Town": "Huyện Tánh Linh"
+    },
+    {
+      "Town": "Huyện đảo Phú Quý"
+    },
+    {
+      "Town": "Thị xã LaGi"
+    }
+  ],
+  "Cà Mau": [
+    {
+      "Town": "Thành phố Cà Mau"
+    },
+    {
+      "Town": "Huyện Thới Bình"
+    },
+    {
+      "Town": "Huyện U Minh"
+    },
+    {
+      "Town": "Huyện Trần Văn Thời"
+    },
+    {
+      "Town": "Huyện Cái Nước"
+    },
+    {
+      "Town": "Huyện Đầm Dơi"
+    },
+    {
+      "Town": "Huyện Ngọc Hiển"
+    },
+    {
+      "Town": "Huyện Năm Căn"
+    },
+    {
+      "Town": "Huyện Phú Tân"
+    }
+  ],
+  "Cao Bằng": [
+    {
+      "Town": "Thị xã Cao Bằng"
+    },
+    {
+      "Town": "Huyện Bảo Lạc"
+    },
+    {
+      "Town": "Huyện Thông Nông"
+    },
+    {
+      "Town": "Huyện Hà Quảng"
+    },
+    {
+      "Town": "Huyện Trà Lĩnh"
+    },
+    {
+      "Town": "Huyện Trùng Khánh"
+    },
+    {
+      "Town": "Huyện Nguyên Bình"
+    },
+    {
+      "Town": "Huyện Hoà An"
+    },
+    {
+      "Town": "Huyện Quảng Uyên"
+    },
+    {
+      "Town": "Huyện Thạch An"
+    },
+    {
+      "Town": "Huyện Hạ Lang"
+    },
+    {
+      "Town": "Huyện Bảo Lâm"
+    },
+    {
+      "Town": "Huyện Phục Hoà"
+    }
+  ],
+  "Đắk Lắk": [
+    {
+      "Town": "Thành phố Buôn Ma Thuột"
+    },
+    {
+      "Town": "Huyện Ea H Leo"
+    },
+    {
+      "Town": "Huyện Krông Buk"
+    },
+    {
+      "Town": "Huyện Krông Năng"
+    },
+    {
+      "Town": "Huyện Ea Súp"
+    },
+    {
+      "Town": "Huyện Cư M gar"
+    },
+    {
+      "Town": "Huyện Krông Pắc"
+    },
+    {
+      "Town": "Huyện Ea Kar"
+    },
+    {
+      "Town": "Huyện M`Đrăk"
+    },
+    {
+      "Town": "Huyện Krông Ana"
+    },
+    {
+      "Town": "Huyện Krông Bông"
+    },
+    {
+      "Town": "Huyện Lăk"
+    },
+    {
+      "Town": "Huyện Buôn Đôn"
+    },
+    {
+      "Town": "Huyện Cư Kuin"
+    }
+  ],
+  "Đắk Nông": [
+    {
+      "Town": "Thị xã Gia Nghĩa"
+    },
+    {
+      "Town": "Huyện Dăk RLấp"
+    },
+    {
+      "Town": "Huyện Dăk Mil"
+    },
+    {
+      "Town": "Huyện Cư Jút"
+    },
+    {
+      "Town": "Huyện Dăk Song"
+    },
+    {
+      "Town": "Huyện Krông Nô"
+    },
+    {
+      "Town": "Huyện Dăk GLong"
+    },
+    {
+      "Town": "Huyện Tuy Đức"
+    }
+  ],
+  "Điện Biên": [
+    {
+      "Town": "TP. Điện Biên Phủ"
+    },
+    {
+      "Town": "Thị xã Mường Lay"
+    },
+    {
+      "Town": "Huyện Điện Biên"
+    },
+    {
+      "Town": "Huyện Tuần Giáo"
+    },
+    {
+      "Town": "Huyện Mường Chà"
+    },
+    {
+      "Town": "Huyện Tủa Chùa"
+    },
+    {
+      "Town": "Huyện Điện Biên Đông"
+    },
+    {
+      "Town": "Huyện Mường Nhé"
+    },
+    {
+      "Town": "Huyện Mường Ảng"
+    }
+  ],
+  "Đồng Nai": [
+    {
+      "Town": "Tp. Biên Hòa"
+    },
+    {
+      "Town": "Huyện Vĩnh Cửu"
+    },
+    {
+      "Town": "Huyện Tân Phú"
+    },
+    {
+      "Town": "Huyện Định Quán"
+    },
+    {
+      "Town": "Huyện Thống Nhất"
+    },
+    {
+      "Town": "Thị Xã Long Khánh"
+    },
+    {
+      "Town": "Huyện Xuân Lộc"
+    },
+    {
+      "Town": "Huyện Long Thành"
+    },
+    {
+      "Town": "Huyện Nhơn Trạch"
+    },
+    {
+      "Town": "Huyện Trảng Bơm"
+    },
+    {
+      "Town": "Huyện Cẩm Mỹ"
+    }
+  ],
+  "Đồng Tháp": [
+    {
+      "Town": "Thành phố Cao Lãnh"
+    },
+    {
+      "Town": "Thị xã Sa Đéc"
+    },
+    {
+      "Town": "Huyện Tân Hồng"
+    },
+    {
+      "Town": "Huyện Hồng Ngự"
+    },
+    {
+      "Town": "Huyện Tam Nông"
+    },
+    {
+      "Town": "Huyện Thanh Bình"
+    },
+    {
+      "Town": "Huyện Cao Lãnh"
+    },
+    {
+      "Town": "Huyện Lấp Vò"
+    },
+    {
+      "Town": "Huyện Tháp Mười"
+    },
+    {
+      "Town": "Huyện Lai Vung"
+    },
+    {
+      "Town": "Huyện Châu Thành"
+    }
+  ],
+  "Gia Lai": [
+    {
+      "Town": "Thành phố Pleiku"
+    },
+    {
+      "Town": "Huyện Chư Păh"
+    },
+    {
+      "Town": "Huyện Mang Yang"
+    },
+    {
+      "Town": "Huyện Kbang"
+    },
+    {
+      "Town": "Thị xã An Khê"
+    },
+    {
+      "Town": "Huyện Kông Chro"
+    },
+    {
+      "Town": "Huyện Đức Cơ"
+    },
+    {
+      "Town": "Huyện Chưprông"
+    },
+    {
+      "Town": "Huyện Chư Sê"
+    },
+    {
+      "Town": "Huyện Ayunpa"
+    },
+    {
+      "Town": "Huyện Krông Pa"
+    },
+    {
+      "Town": "Huyện Ia Grai"
+    },
+    {
+      "Town": "Huyện Đăk Đoa"
+    },
+    {
+      "Town": "Huyện Ia Pa"
+    },
+    {
+      "Town": "Huyện Đăk Pơ"
+    },
+    {
+      "Town": "Huyện Phú Thiện"
+    }
+  ],
+  "Hà Giang": [
+    {
+      "Town": "Thành phố Hà Giang"
+    },
+    {
+      "Town": "Huyện Đồng Văn"
+    },
+    {
+      "Town": "Huyện Mèo Vạc"
+    },
+    {
+      "Town": "Huyện Yên Minh"
+    },
+    {
+      "Town": "Huyện Quản Bạ"
+    },
+    {
+      "Town": "Huyện Vị Xuyên"
+    },
+    {
+      "Town": "Huyện Bắc Mê"
+    },
+    {
+      "Town": "Huyện Hoàng Su Phì"
+    },
+    {
+      "Town": "Huyện Xín Mần"
+    },
+    {
+      "Town": "Huyện Bắc Quang"
+    },
+    {
+      "Town": "Huyện Quang Bình"
+    }
+  ],
+  "Hà Nam": [
+    {
+      "Town": "Thị xã Phủ Lý"
+    },
+    {
+      "Town": "Huyện Duy Tiên"
+    },
+    {
+      "Town": "Huyện Kim Bảng"
+    },
+    {
+      "Town": "Huyện Lý Nhân"
+    },
+    {
+      "Town": "Huỵện Thanh Liêm"
+    },
+    {
+      "Town": "Huyện Bình Lục"
+    }
+  ],
+  "Hà Tĩnh": [
+    {
+      "Town": "Thành phố Hà Tĩnh"
+    },
+    {
+      "Town": "Thị xã Hồng Lĩnh"
+    },
+    {
+      "Town": "Huyện Hương Sơn"
+    },
+    {
+      "Town": "Huyện Đức Thọ"
+    },
+    {
+      "Town": "Huyện Nghi Xuân"
+    },
+    {
+      "Town": "Huyện Can Lộc"
+    },
+    {
+      "Town": "Huyện Hương Khê"
+    },
+    {
+      "Town": "Huyện Thạch Hà"
+    },
+    {
+      "Town": "Huyện Cẩm Xuyên"
+    },
+    {
+      "Town": "Huyện Kỳ Anh"
+    },
+    {
+      "Town": "Huyện Vũ Quang"
+    },
+    {
+      "Town": "Huyện Lộc Hà"
+    }
+  ],
+  "Hải Dương": [
+    {
+      "Town": "Thành phố Hải Dương"
+    },
+    {
+      "Town": "Huyện Chí Linh"
+    },
+    {
+      "Town": "Huyện Nam Sách"
+    },
+    {
+      "Town": "Huyện Kinh Môn"
+    },
+    {
+      "Town": "Huyện Gia Lộc"
+    },
+    {
+      "Town": "Huyện Tứ Kỳ"
+    },
+    {
+      "Town": "Huyện Thanh Miện"
+    },
+    {
+      "Town": "Huyện Cẩm Giàng"
+    },
+    {
+      "Town": "Huyện Thanh Hà"
+    },
+    {
+      "Town": "Huyện Kim Thành"
+    },
+    {
+      "Town": "Huyện Bình Giang"
+    }
+  ],
+  "Hậu Giang": [
+    {
+      "Town": "Thành phố Vị Thanh"
+    },
+    {
+      "Town": "Huyện Vị Thuỷ"
+    },
+    {
+      "Town": "Huyện Long Mỹ"
+    },
+    {
+      "Town": "Huyện Phụng Hiệp"
+    },
+    {
+      "Town": "Huyện Châu Thành"
+    },
+    {
+      "Town": "Huyện Châu Thành A"
+    },
+    {
+      "Town": "Thị xã Ngã Bảy"
+    }
+  ],
+  "Hòa Bình": [
+    {
+      "Town": "Thành phố Hoà Bình"
+    },
+    {
+      "Town": "Huyện Đà Bắc"
+    },
+    {
+      "Town": "Huyện Mai Châu"
+    },
+    {
+      "Town": "Huyện Tân Lạc"
+    },
+    {
+      "Town": "Huyện Lạc Sơn"
+    },
+    {
+      "Town": "Huyện Kỳ Sơn"
+    },
+    {
+      "Town": "Huyện Lương Sơn"
+    },
+    {
+      "Town": "Huyện Kim Bôi"
+    },
+    {
+      "Town": "Huyện Lạc Thuỷ"
+    },
+    {
+      "Town": "Huyện Yên Thuỷ"
+    },
+    {
+      "Town": "Huyện Cao Phong"
+    }
+  ],
+  "Hưng Yên": [
+    {
+      "Town": "Thị xã Hưng Yên"
+    },
+    {
+      "Town": "Huyện Kim Động"
+    },
+    {
+      "Town": "Huyện Ân Thi"
+    },
+    {
+      "Town": "Huyện Khoái Châu"
+    },
+    {
+      "Town": "Huyện Yên Mỹ"
+    },
+    {
+      "Town": "Huyện Tiên Lữ"
+    },
+    {
+      "Town": "Huyện Phù Cừ"
+    },
+    {
+      "Town": "Huyện Mỹ Hào"
+    },
+    {
+      "Town": "Huyện Văn Lâm"
+    },
+    {
+      "Town": "Huyện Văn Giang"
+    }
+  ],
+  "Khánh Hòa": [
+    {
+      "Town": "Thành phố Nha Trang"
+    },
+    {
+      "Town": "Huyện Vạn Ninh"
+    },
+    {
+      "Town": "Huyện Ninh Hoà"
+    },
+    {
+      "Town": "Huyện Diên Khánh"
+    },
+    {
+      "Town": "Huyện Khánh Vĩnh"
+    },
+    {
+      "Town": "Thị xã Cam Ranh"
+    },
+    {
+      "Town": "Huyện Khánh Sơn"
+    },
+    {
+      "Town": "Huyện Trường Sa"
+    },
+    {
+      "Town": "Huyện Cam Lâm"
+    }
+  ],
+  "Kiên Giang": [
+    {
+      "Town": "Thành phố Rạch Giá"
+    },
+    {
+      "Town": "Thị xã Hà Tiên"
+    },
+    {
+      "Town": "Huyện Kiên Lương"
+    },
+    {
+      "Town": "Huyện Hòn Đất"
+    },
+    {
+      "Town": "Huyện Tân Hiệp"
+    },
+    {
+      "Town": "Huyện Châu Thành"
+    },
+    {
+      "Town": "Huyện Giồng Riềng"
+    },
+    {
+      "Town": "Huyện Gò Quao"
+    },
+    {
+      "Town": "Huyện An Biên"
+    },
+    {
+      "Town": "Huyện An Minh"
+    },
+    {
+      "Town": "Huyện Vĩnh Thuận"
+    },
+    {
+      "Town": "Huyện Phú Quốc"
+    },
+    {
+      "Town": "Huyện Kiên Hải"
+    },
+    {
+      "Town": "Huyện U minh Thượng"
+    }
+  ],
+  "Kon Tum": [
+    {
+      "Town": "Thị xã KonTum"
+    },
+    {
+      "Town": "Huyện Đăk Glei"
+    },
+    {
+      "Town": "Huyện Ngọc Hồi"
+    },
+    {
+      "Town": "Huyện Đăk Tô"
+    },
+    {
+      "Town": "Huyện Sa Thầy"
+    },
+    {
+      "Town": "Huyện Kon Plong"
+    },
+    {
+      "Town": "Huyện Đăk Hà"
+    },
+    {
+      "Town": "Huyện Kon Rộy"
+    },
+    {
+      "Town": "Huyện Tu Mơ Rông"
+    }
+  ],
+  "Lai Châu": [
+    {
+      "Town": "Thị xã Lai Châu"
+    },
+    {
+      "Town": "Huyện Tam Đường"
+    },
+    {
+      "Town": "Huyện Phong Thổ"
+    },
+    {
+      "Town": "Huyện Sìn Hồ"
+    },
+    {
+      "Town": "Huyện Mường Tè"
+    },
+    {
+      "Town": "Huyện Than Uyên"
+    }
+  ],
+  "Lâm Đồng": [
+    {
+      "Town": "Thành phố Đà Lạt"
+    },
+    {
+      "Town": "Thị xã. Bảo Lộc"
+    },
+    {
+      "Town": "Huyện Đức Trọng"
+    },
+    {
+      "Town": "Huyện Di Linh"
+    },
+    {
+      "Town": "Huyện Đơn Dương"
+    },
+    {
+      "Town": "Huyện Lạc Dương"
+    },
+    {
+      "Town": "Huyện Đạ Huoai"
+    },
+    {
+      "Town": "Huyện Đạ Tẻh"
+    },
+    {
+      "Town": "Huyện Cát Tiên"
+    },
+    {
+      "Town": "Huyện Lâm Hà"
+    },
+    {
+      "Town": "Huyện Bảo Lâm"
+    },
+    {
+      "Town": "Huyện Đam Rông"
+    }
+  ],
+  "Lạng Sơn": [
+    {
+      "Town": "Thành phố Lạng Sơn"
+    },
+    {
+      "Town": "Huyện Tràng Định"
+    },
+    {
+      "Town": "Huyện Bình Gia"
+    },
+    {
+      "Town": "Huyện Văn Lãng"
+    },
+    {
+      "Town": "Huyện Bắc Sơn"
+    },
+    {
+      "Town": "Huyện Văn Quan"
+    },
+    {
+      "Town": "Huyện Cao Lộc"
+    },
+    {
+      "Town": "Huyện Lộc Bình"
+    },
+    {
+      "Town": "Huyện Chi Lăng"
+    },
+    {
+      "Town": "Huyện Đình Lập"
+    },
+    {
+      "Town": "Huyện Hữu Lũng"
+    }
+  ],
+  "Lào Cai": [
+    {
+      "Town": "Thành phố Lào Cai"
+    },
+    {
+      "Town": "Huyện Xi Ma Cai"
+    },
+    {
+      "Town": "Huyện Bát Xát"
+    },
+    {
+      "Town": "Huyện Bảo Thắng"
+    },
+    {
+      "Town": "Huyện Sa Pa"
+    },
+    {
+      "Town": "Huyện Văn Bàn"
+    },
+    {
+      "Town": "Huyện Bảo Yên"
+    },
+    {
+      "Town": "Huyện Bắc Hà"
+    },
+    {
+      "Town": "Huyện Mường Khương"
+    }
+  ],
+  "Long An": [
+    {
+      "Town": "Huyện Vĩnh Hưng"
+    },
+    {
+      "Town": "Huyện Mộc Hoá"
+    },
+    {
+      "Town": "Huyện Tân Thạnh"
+    },
+    {
+      "Town": "Huyện Thạnh Hoá"
+    },
+    {
+      "Town": "Huyện Đức Huệ"
+    },
+    {
+      "Town": "Huyện Đức Hoà"
+    },
+    {
+      "Town": "Huyện Bến Lức"
+    },
+    {
+      "Town": "Huyện Thủ Thừa"
+    },
+    {
+      "Town": "Huyện Châu Thành"
+    },
+    {
+      "Town": "Huyện Tân Trụ"
+    },
+    {
+      "Town": "Huyện Cần Đước"
+    },
+    {
+      "Town": "Huyện Cần Giuộc"
+    },
+    {
+      "Town": "Huyện Tân Hưng"
+    }
+  ],
+  "Nam Định": [
+    {
+      "Town": "TP. Nam Định"
+    },
+    {
+      "Town": "Huyện Mỹ Lộc"
+    },
+    {
+      "Town": "Huyện Xuân Trường"
+    },
+    {
+      "Town": "Huyện Giao Thủy"
+    },
+    {
+      "Town": "Huyện ý Yên"
+    },
+    {
+      "Town": "Huyện Vụ Bản"
+    },
+    {
+      "Town": "Huyện Nam Trực"
+    },
+    {
+      "Town": "Huyện Trực Ninh"
+    },
+    {
+      "Town": "Huyện Nghĩa Hưng"
+    },
+    {
+      "Town": "Huyện Hải Hậu"
+    }
+  ],
+  "Nghệ An": [
+    {
+      "Town": "Thành phố Vinh"
+    },
+    {
+      "Town": "Thị xã Cửa Lò"
+    },
+    {
+      "Town": "Huyện Quỳ Châu"
+    },
+    {
+      "Town": "Huyện Quỳ Hợp"
+    },
+    {
+      "Town": "Huyện Nghĩa Đàn"
+    },
+    {
+      "Town": "Huyện Quỳnh Lưu"
+    },
+    {
+      "Town": "Huyện Kỳ Sơn"
+    },
+    {
+      "Town": "Huyện Tương Dương"
+    },
+    {
+      "Town": "Huyện Con Cuông"
+    },
+    {
+      "Town": "Huyện Tân Kỳ"
+    },
+    {
+      "Town": "Huyện Yên Thành"
+    },
+    {
+      "Town": "Huyện Diễn Châu"
+    },
+    {
+      "Town": "Huyện Anh Sơn"
+    },
+    {
+      "Town": "Huyện Đô Lương"
+    },
+    {
+      "Town": "Huyện Thanh Chương"
+    },
+    {
+      "Town": "Huyện Nghi Lộc"
+    },
+    {
+      "Town": "Huyện Nam Đàn"
+    },
+    {
+      "Town": "Huyện Hưng Nguyên"
+    },
+    {
+      "Town": "Huyện Quế Phong"
+    }
+  ],
+  "Ninh Bình": [
+    {
+      "Town": "Thành phố Ninh Bình"
+    },
+    {
+      "Town": "Thị xã Tam Điệp"
+    },
+    {
+      "Town": "Huyện Nho Quan"
+    },
+    {
+      "Town": "Huyện Gia Viễn"
+    },
+    {
+      "Town": "Huyện Hoa Lư"
+    },
+    {
+      "Town": "Huyện Yên Mô"
+    },
+    {
+      "Town": "Huyện Kim Sơn"
+    },
+    {
+      "Town": "Huyện Yên Khánh"
+    }
+  ],
+  "Ninh Thuận": [
+    {
+      "Town": "Thành phố Phan Rang-Tháp Chàm"
+    },
+    {
+      "Town": "Huyện Ninh Sơn"
+    },
+    {
+      "Town": "Huyện Ninh Phước"
+    },
+    {
+      "Town": "Huyện Bác Ái"
+    },
+    {
+      "Town": "Huyện Thuận Bắc"
+    },
+    {
+      "Town": "Huyện Ninh Hải"
+    }
+  ],
+  "Phú Thọ": [
+    {
+      "Town": "TP. Việt Trì"
+    },
+    {
+      "Town": "Thị xã Phú Thọ"
+    },
+    {
+      "Town": "Huyện Đoan Hùng"
+    },
+    {
+      "Town": "Huyện Thanh Ba"
+    },
+    {
+      "Town": "Huyện Hạ Hoà"
+    },
+    {
+      "Town": "Huyện Cẩm Khê"
+    },
+    {
+      "Town": "Huyện Yên Lập"
+    },
+    {
+      "Town": "Huyện Thanh Sơn"
+    },
+    {
+      "Town": "Huyện Phù Ninh"
+    },
+    {
+      "Town": "Huyện Lâm Thao"
+    },
+    {
+      "Town": "Huyện Tam Nông"
+    },
+    {
+      "Town": "Huyện Thanh Thủy"
+    },
+    {
+      "Town": "Huyện Tân Sơn"
+    }
+  ],
+  "Quảng Bình": [
+    {
+      "Town": "Thành phố Đồng Hới"
+    },
+    {
+      "Town": "Huyện Tuyên Hoá"
+    },
+    {
+      "Town": "Huyện Minh Hoá"
+    },
+    {
+      "Town": "Huyện Quảng Trạch"
+    },
+    {
+      "Town": "Huyện Bố Trạch"
+    },
+    {
+      "Town": "Huyện Quảng Ninh"
+    },
+    {
+      "Town": "Huyện Lệ Thuỷ"
+    }
+  ],
+  "Quảng Nam": [
+    {
+      "Town": "Thành phố Tam Kỳ"
+    },
+    {
+      "Town": "Thị xã Hội An"
+    },
+    {
+      "Town": "Huyện Duy Xuyên"
+    },
+    {
+      "Town": "Huyện Điện Bàn"
+    },
+    {
+      "Town": "Huyện Đại Lộc"
+    },
+    {
+      "Town": "Huyện Quế Sơn"
+    },
+    {
+      "Town": "Huyện Hiệp Đức"
+    },
+    {
+      "Town": "Huyện Thăng Bình"
+    },
+    {
+      "Town": "Huyện Núi Thành"
+    },
+    {
+      "Town": "Huyện Tiên Phước"
+    },
+    {
+      "Town": "Huyện Bắc Trà My"
+    },
+    {
+      "Town": "Huyện Đông Giang"
+    },
+    {
+      "Town": "Huyện Nam Giang"
+    },
+    {
+      "Town": "Huyện Phước Sơn"
+    },
+    {
+      "Town": "Huyện Nam Trà My"
+    },
+    {
+      "Town": "Huyện Tây Giang"
+    },
+    {
+      "Town": "Huyện Phú Ninh"
+    }
+  ],
+  "Quảng Ngãi": [
+    {
+      "Town": "Thành phố Quảng Ngãi"
+    },
+    {
+      "Town": "Huyện Lý Sơn"
+    },
+    {
+      "Town": "Huyện Bình Sơn"
+    },
+    {
+      "Town": "Huyện Trà Bồng"
+    },
+    {
+      "Town": "Huyện Sơn Tịnh"
+    },
+    {
+      "Town": "Huyện Sơn Hà"
+    },
+    {
+      "Town": "Huyện Tư Nghĩa"
+    },
+    {
+      "Town": "Huyện Nghĩa Hành"
+    },
+    {
+      "Town": "Huyện Minh Long"
+    },
+    {
+      "Town": "Huyện Mộ Đức"
+    },
+    {
+      "Town": "Huyện Đức Phổ"
+    },
+    {
+      "Town": "Huyện Ba Tơ"
+    },
+    {
+      "Town": "Huyện Sơn Tây"
+    },
+    {
+      "Town": "Huyện Tây Trà"
+    }
+  ],
+  "Quảng Ninh": [
+    {
+      "Town": "TP. Hạ Long"
+    },
+    {
+      "Town": "Thị xã Cẩm Phả"
+    },
+    {
+      "Town": "Thị xã Uông Bí"
+    },
+    {
+      "Town": "Thị xã Móng Cái"
+    },
+    {
+      "Town": "Huyện Bình Liêu"
+    },
+    {
+      "Town": "Huyện Đầm Hà"
+    },
+    {
+      "Town": "Huyện Hải Hà"
+    },
+    {
+      "Town": "Huyện Tiên Yên"
+    },
+    {
+      "Town": "Huyện Ba Chẽ"
+    },
+    {
+      "Town": "Huyện Đông Triều"
+    },
+    {
+      "Town": "Huyện Yên Hưng"
+    },
+    {
+      "Town": "Huyện Hoành Bồ"
+    },
+    {
+      "Town": "Huyện Vân Đồn"
+    },
+    {
+      "Town": "Huyện Cô Tô"
+    }
+  ],
+  "Quảng Trị": [
+    {
+      "Town": "Thị xã Đông Hà"
+    },
+    {
+      "Town": "Thị xã Quảng Trị"
+    },
+    {
+      "Town": "Huyện Vĩnh Linh"
+    },
+    {
+      "Town": "Huyện Gio Linh"
+    },
+    {
+      "Town": "Huyện Cam Lộ"
+    },
+    {
+      "Town": "Huyện Triệu Phong"
+    },
+    {
+      "Town": "Huyện Hải Lăng"
+    },
+    {
+      "Town": "Huyện Hướng Hoá"
+    },
+    {
+      "Town": "Huyện Đăk Rông"
+    },
+    {
+      "Town": "Huyện đảo Cồn cỏ"
+    }
+  ],
+  "Sóc Trăng": [
+    {
+      "Town": "Thành phố Sóc Trăng"
+    },
+    {
+      "Town": "Huyện Kế Sách"
+    },
+    {
+      "Town": "Huyện Mỹ Tú"
+    },
+    {
+      "Town": "Huyện Mỹ Xuyên"
+    },
+    {
+      "Town": "Huyện Thạnh Trị"
+    },
+    {
+      "Town": "Huyện Long Phú"
+    },
+    {
+      "Town": "Huyện Vĩnh Châu"
+    },
+    {
+      "Town": "Huyện Cù Lao Dung"
+    },
+    {
+      "Town": "Huyện Ngã Năm"
+    },
+    {
+      "Town": "Huyện Châu Thành"
+    },
+    {
+      "Town": "Huyện Trần Đề"
+    }
+  ],
+  "Sơn La": [
+    {
+      "Town": "Thị xã Sơn La"
+    },
+    {
+      "Town": "Huyện Quỳnh Nhai"
+    },
+    {
+      "Town": "Huyện Mường La"
+    },
+    {
+      "Town": "Huyện Thuận Châu"
+    },
+    {
+      "Town": "Huyện Bắc Yên"
+    },
+    {
+      "Town": "Huyện Phù Yên"
+    },
+    {
+      "Town": "Huyện Mai Sơn"
+    },
+    {
+      "Town": "Huyện Yên Châu"
+    },
+    {
+      "Town": "Huyện Sông Mã"
+    },
+    {
+      "Town": "Huyện Mộc Châu"
+    },
+    {
+      "Town": "Huyện Sốp Cộp"
+    }
+  ],
+  "Tây Ninh": [
+    {
+      "Town": "Thị xã Tây Ninh"
+    },
+    {
+      "Town": "Huyện Tân Biên"
+    },
+    {
+      "Town": "Huyện Châu Thành"
+    },
+    {
+      "Town": "Huyện Dương Minh Châu"
+    },
+    {
+      "Town": "Huyện Tân Châu"
+    },
+    {
+      "Town": "Huyện Hoà Thành"
+    },
+    {
+      "Town": "Huyện Bến Cầu"
+    },
+    {
+      "Town": "Huyện Gò Dầu"
+    },
+    {
+      "Town": "Huyện Trảng Bàng"
+    }
+  ],
+  "Thái Bình": [
+    {
+      "Town": "Thành phố Thái Bình"
+    },
+    {
+      "Town": "Huyện Quỳnh Phụ"
+    },
+    {
+      "Town": "Huyện Hưng Hà"
+    },
+    {
+      "Town": "Huyện Đông Hưng"
+    },
+    {
+      "Town": "Huyện Vũ Thư"
+    },
+    {
+      "Town": "Huyện Kiến Xương"
+    },
+    {
+      "Town": "Huyện Tiền Hải"
+    },
+    {
+      "Town": "Huyện Thái Thuỵ"
+    }
+  ],
+  "Thái Nguyên": [
+    {
+      "Town": "TP.Thái Nguyên"
+    },
+    {
+      "Town": "Thị xã Sông Công"
+    },
+    {
+      "Town": "Huyện Định Hoá"
+    },
+    {
+      "Town": "Huyện Phú Lương"
+    },
+    {
+      "Town": "Huyện Võ Nhai"
+    },
+    {
+      "Town": "Huyện Đại Từ"
+    },
+    {
+      "Town": "Huyện Đồng Hỷ"
+    },
+    {
+      "Town": "Huyện Phú Bình"
+    },
+    {
+      "Town": "Huyện Phổ Yên"
+    }
+  ],
+  "Thanh Hóa": [
+    {
+      "Town": "Thành phố Thanh Hoá"
+    },
+    {
+      "Town": "Thị xã Bỉm Sơn"
+    },
+    {
+      "Town": "Thị xã Sầm Sơn"
+    },
+    {
+      "Town": "Huyện Quan Hoá"
+    },
+    {
+      "Town": "Huyện Quan Sơn"
+    },
+    {
+      "Town": "Huyện Mường Lát"
+    },
+    {
+      "Town": "Huyện Bá Thước"
+    },
+    {
+      "Town": "Huyện Thường Xuân"
+    },
+    {
+      "Town": "Huyện Như Xuân"
+    },
+    {
+      "Town": "Huyện Như Thanh"
+    },
+    {
+      "Town": "Huyện Lang Chánh"
+    },
+    {
+      "Town": "Huyện Thạch Thành"
+    },
+    {
+      "Town": "Huyện Cẩm Thủy"
+    },
+    {
+      "Town": "Huyện Thọ Xuân"
+    },
+    {
+      "Town": "Huyện Vĩnh Lộc"
+    },
+    {
+      "Town": "Huyện Thiệu Hoá"
+    },
+    {
+      "Town": "Huyện Triệu Sơn"
+    },
+    {
+      "Town": "Huyện Nông Cống"
+    },
+    {
+      "Town": "Huyện Đông Sơn"
+    },
+    {
+      "Town": "Huyện Hà Trung"
+    },
+    {
+      "Town": "Huyện Hoằng Hoá"
+    },
+    {
+      "Town": "Huyện Nga Sơn"
+    },
+    {
+      "Town": "Huyện Quảng Xương"
+    },
+    {
+      "Town": "Huyện Tĩnh Gia"
+    },
+
+    {
+      "Town": "Huyện Yên Định"
+    }
+  ],
+  "Thừa Thiên Huế": [
+    {
+      "Town": "TP. Huế"
+    },
+    {
+      "Town": "Huyện Phong Điền"
+    },
+    {
+      "Town": "Huyện Quảng Điền"
+    },
+    {
+      "Town": "Huyện Hương Trà"
+    },
+    {
+      "Town": "Huyện Phú Vang"
+    },
+    {
+      "Town": "Huyện Hương Thuỷ"
+    },
+    {
+      "Town": "Huyện Phú Lộc"
+    },
+    {
+      "Town": "Huyện Nam Đông"
+    },
+    {
+      "Town": "Huyện A Lưới"
+    }
+  ],
+  "Tiền Giang": [
+    {
+      "Town": "Thành phố Mỹ Tho"
+    },
+    {
+      "Town": "Thị xã Gò Công"
+    },
+    {
+      "Town": "Huyện Cái Bè"
+    },
+    {
+      "Town": "Huyện Cai Lậy"
+    },
+    {
+      "Town": "Huyện Châu Thành"
+    },
+    {
+      "Town": "Huyện Chợ Gạo"
+    },
+    {
+      "Town": "Huyện Gò Công Tây"
+    },
+    {
+      "Town": "Huyện Gò Công Đông"
+    },
+    {
+      "Town": "Huyện Tân Phước"
+    }
+  ],
+  "Trà Vinh": [
+    {
+      "Town": "Thị xã Trà Vinh"
+    },
+    {
+      "Town": "Huyện Càng Long"
+    },
+    {
+      "Town": "Huyện Cầu Kè"
+    },
+    {
+      "Town": "Huyện Tiểu Cần"
+    },
+    {
+      "Town": "Huyện Châu Thành"
+    },
+    {
+      "Town": "Huyện Trà Cú"
+    },
+    {
+      "Town": "Huyện Cầu Ngang"
+    },
+    {
+      "Town": "Huyện Duyên Hải"
+    }
+  ],
+  "Tuyên Quang": [
+    {
+      "Town": "Thành phố Tuyên Quang"
+    },
+    {
+      "Town": "Huyện Na Hang"
+    },
+    {
+      "Town": "Huyện Chiêm Hoá"
+    },
+    {
+      "Town": "Huyện Hàm Yên"
+    },
+    {
+      "Town": "Huyện Yên Sơn"
+    },
+    {
+      "Town": "Huyện Sơn Dương"
+    }
+  ],
+  "Vĩnh Long": [
+    {
+      "Town": "Thị xã Vĩnh Long"
+    },
+    {
+      "Town": "Huyện Long Hồ"
+    },
+    {
+      "Town": "Huyện Mang Thít"
+    },
+    {
+      "Town": "Huyện Bình Minh"
+    },
+    {
+      "Town": "Huyện Tam Bình"
+    },
+    {
+      "Town": "Huyện Trà Ôn"
+    },
+    {
+      "Town": "Huyện Vũng Liêm"
+    },
+    {
+      "Town": "Huyện Bình Tân"
+    }
+  ],
+  "Vĩnh Phúc": [
+    {
+      "Town": "Thành phố Vĩnh Yên"
+    },
+    {
+      "Town": "Huyện Tam Dương"
+    },
+    {
+      "Town": "Huyện Lập Thạch"
+    },
+    {
+      "Town": "Huyện Vĩnh Tường"
+    },
+    {
+      "Town": "Huyện Yên Lạc"
+    },
+    {
+      "Town": "Huyện Bình Xuyên"
+    },
+    {
+      "Town": "Huyện Mê Linh"
+    },
+    {
+      "Town": "Thị xã Phúc Yên"
+    },
+    {
+      "Town": "Huyện Tam Đảo"
+    }
+  ],
+  "Yên Bái": [
+    {
+      "Town": "Thành phố Yên Bái"
+    },
+    {
+      "Town": "Thị xã Nghĩa Lộ"
+    },
+    {
+      "Town": "Huyện Văn Yên"
+    },
+    {
+      "Town": "Huyện Yên Bình"
+    },
+    {
+      "Town": "Huyện Mù Cang Chải"
+    },
+    {
+      "Town": "Huyện Văn Chấn"
+    },
+    {
+      "Town": "Huyện Trấn Yên"
+    },
+    {
+      "Town": "Huyện Trạm Tấu"
+    },
+    {
+      "Town": "Huyện Lục Yên"
+    }
+  ],
+  "Phú Yên": [
+    {
+      "Town": "Thị xã Tuy Hoà"
+    },
+    {
+      "Town": "Huyện Đồng Xuân"
+    },
+    {
+      "Town": "Huyện Sông Cầu"
+    },
+    {
+      "Town": "Huyện Tuy An"
+    },
+    {
+      "Town": "Huyện Sơn Hoà"
+    },
+    {
+      "Town": "Huyện Sông Hinh"
+    },
+    {
+      "Town": "Huyện Đông Hoà"
+    },
+    {
+      "Town": "Huyện Phú Hoà"
+    },
+    {
+      "Town": "Huyện Tây Hoà"
+    }
+  ],
+  "Cần Thơ": [
+    {
+      "Town": "Quận Ninh Kiều"
+    },
+    {
+      "Town": "Quận Bình Thuỷ"
+    },
+    {
+      "Town": "Quận Cái Răng"
+    },
+    {
+      "Town": "Quận Ô Môn"
+    },
+    {
+      "Town": "Huyện Phong Điền"
+    },
+    {
+      "Town": "Huyện Cờ Đỏ"
+    },
+    {
+      "Town": "Huyện Vĩnh Thạnh"
+    },
+    {
+      "Town": "Huyện Thốt Nốt"
+    }
+  ],
+  "Đà Nẵng": [
+    {
+      "Town": "Quận Hải Châu"
+    },
+    {
+      "Town": "Quận Thanh Khê"
+    },
+    {
+      "Town": "Quận Sơn Trà"
+    },
+    {
+      "Town": "Quận Ngũ Hành Sơn"
+    },
+    {
+      "Town": "Quận Liên Chiểu"
+    },
+    {
+      "Town": "Huyện Hoà Vang"
+    },
+    {
+      "Town": "Quận Cẩm Lệ"
+    }
+  ],
+  "Hải Phòng": [
+    {
+      "Town": "Quận Lê Chân"
+    },
+    {
+      "Town": "Quận Ngô Quyền"
+    },
+    {
+      "Town": "Quận Kiến An"
+    },
+    {
+      "Town": "Quận Hải An"
+    },
+    {
+      "Town": "Quận Đồ Sơn"
+    },
+    {
+      "Town": "Huyện An Lão"
+    },
+    {
+      "Town": "Huyện Kiến Thuỵ"
+    },
+    {
+      "Town": "Huyện Thủy Nguyên"
+    },
+    {
+      "Town": "Huyện An Dương"
+    },
+    {
+      "Town": "Huyện Tiên Lãng"
+    },
+    {
+      "Town": "Huyện Vĩnh Bảo"
+    },
+    {
+      "Town": "Huyện Cát Hải"
+    },
+    { "Town": "Huyện Bạch Long Vĩ" },
+    {
+      "Town": "Quận Dương Kinh"
+    }
+  ],
+  "Hà Nội": [
+    {
+      "Town": "Quận Hoàn Kiếm"
+    },
+    {
+      "Town": "Quận Hai Bà Trưng"
+    },
+    {
+      "Town": "Quận Đống Đa"
+    },
+    {
+      "Town": "Quận Tây Hồ"
+    },
+    {
+      "Town": "Quận Cầu Giấy"
+    },
+    {
+      "Town": "Quận Thanh Xuân"
+    },
+    {
+      "Town": "Quận Hoàng Mai"
+    },
+    {
+      "Town": "Quận Long Biên"
+    },
+    {
+      "Town": "Huyện Từ Liêm"
+    },
+    {
+      "Town": "Huyện Thanh Trì"
+    },
+    {
+      "Town": "Huyện Gia Lâm"
+    },
+    {
+      "Town": "Huyện Mê Linh"
+    },
+    {
+      "Town": "Huyện Đông Anh"
+    },
+    {
+      "Town": "Huyện Sóc Sơn"
+    },
+    {
+      "Town": "Quận Hà Đông"
+    },
+    {
+      "Town": "Thị xã Sơn Tây"
+    },
+    {
+      "Town": "Huyện Ba Vì"
+    },
+    {
+      "Town": "Huyện Phúc Thọ"
+    },
+    {
+      "Town": "Huyện Thạch Thất"
+    },
+    {
+      "Town": "Huyện Quốc Oai"
+    },
+    {
+      "Town": "Huyện Chương Mỹ"
+    },
+    {
+      "Town": "Huyện Đan Phượng"
+    },
+    {
+      "Town": "Huyện Hoài Đức"
+    },
+    {
+      "Town": "Huyện Thanh Oai"
+    },
+    {
+      "Town": "Huyện Mỹ Đức"
+    },
+    {
+      "Town": "Huyện Ứng Hoà"
+    },
+    {
+      "Town": "Huyện Thường Tín"
+    },
+    {
+      "Town": "Huyện Phú Xuyên"
+    }
+  ],
+  "TP HCM": [
+    {
+      "Town": "Quận 1"
+    },
+    {
+      "Town": "Quận 2"
+    },
+    {
+      "Town": "Quận 3"
+    },
+    {
+      "Town": "Quận 4"
+    },
+    {
+      "Town": "Quận 5"
+    },
+    {
+      "Town": "Quận 6"
+    },
+    {
+      "Town": "Quận 7"
+    },
+    {
+      "Town": "Quận 8"
+    },
+    {
+      "Town": "Quận 9"
+    },
+    {
+      "Town": "Quận 10"
+    },
+    {
+      "Town": "Quận 11"
+    },
+    {
+      "Town": "Quận 12"
+    },
+    {
+      "Town": "Quận Bình Thạnh"
+    },
+    {
+      "Town": "Quận Nhà Bè"
+    },
+    {
+      "Town": "Quận Gò Vấp"
+    },
+    {
+      "Town": "Quận Bình Tân"
+    },
+    {
+      "Town": "Quận Tân Bình"
+    },
+    {
+      "Town": "Quận Tân Phú"
+    },
+    {
+      "Town": "Quận Phú Nhuận"
+    },
+    {
+      "Town": "Quận Thủ Đức"
+    },
+    {
+      "Town": "Huyện Củ Chi"
+    },
+    {
+      "Town": "Huyện Hóc Môn"
+    },
+    {
+      "Town": "Huyện Bình Chánh"
+    },
+    {
+      "Town": "Huyện Nhà Bè"
+    },
+    {
+      "Town": "Huyện Cần Giờ"
+    }
+  ]
+}

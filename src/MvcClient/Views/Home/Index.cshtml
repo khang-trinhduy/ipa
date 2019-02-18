@@ -1,0 +1,30 @@
+﻿@using Microsoft.AspNetCore.Authentication
+@model MvcClient.Models.Grant
+@{
+    ViewData["Title"] = "Home Page";
+}
+<h2>OpenID Connect MVC Client</h2>
+
+<div>
+    <a asp-action="GetPermission">api1</a>
+</div>
+<div>
+    <a asp-action="GetApi">api2</a>
+</div>
+<hr />
+
+<dl>
+    @foreach (var claim in User.Claims)
+    {
+        <dt>@claim.Type</dt>
+        <dd>@claim.Value</dd>
+    }
+</dl>
+<h2>Properties</h2>
+<dl>
+    @foreach (var prop in (await Context.AuthenticateAsync()).Properties.Items)
+    {
+        <dt>@prop.Key</dt>
+        <dd>@prop.Value</dd>
+    }
+</dl>

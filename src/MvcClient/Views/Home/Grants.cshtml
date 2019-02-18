@@ -1,0 +1,58 @@
+﻿@model IEnumerable<MvcClient.Models.Grant>
+
+@{
+    ViewData["Title"] = "Grants";
+}
+
+<h2>Grants</h2>
+
+<p>
+    <a asp-action="AddPermission">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ResourceId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Permission)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Operation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ResourceId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Permission)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Operation)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "EditPermission", new { item.Id }) |
+               @Html.ActionLink("Delete", "DeletePermission", new { item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

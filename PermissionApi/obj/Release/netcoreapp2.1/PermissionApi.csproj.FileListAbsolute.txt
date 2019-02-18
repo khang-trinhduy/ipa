@@ -1,0 +1,14 @@
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\bin\Release\netcoreapp2.1\PermissionApi.deps.json
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\bin\Release\netcoreapp2.1\PermissionApi.runtimeconfig.json
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\bin\Release\netcoreapp2.1\PermissionApi.runtimeconfig.dev.json
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\bin\Release\netcoreapp2.1\PermissionApi.dll
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\bin\Release\netcoreapp2.1\PermissionApi.pdb
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\obj\Release\netcoreapp2.1\PermissionApi.csprojAssemblyReference.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\obj\Release\netcoreapp2.1\PermissionApi.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\obj\Release\netcoreapp2.1\PermissionApi.RazorAssemblyInfo.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\obj\Release\netcoreapp2.1\PermissionApi.RazorAssemblyInfo.cs
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\obj\Release\netcoreapp2.1\PermissionApi.AssemblyInfoInputs.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\obj\Release\netcoreapp2.1\PermissionApi.AssemblyInfo.cs
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\obj\Release\netcoreapp2.1\PermissionApi.RazorTargetAssemblyInfo.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\obj\Release\netcoreapp2.1\PermissionApi.dll
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\PermissionApi\obj\Release\netcoreapp2.1\PermissionApi.pdb

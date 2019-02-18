@@ -1,0 +1,442 @@
+﻿[
+  {
+    "STT": "1",
+    "Name": "NH Chính sách Xã hội Việt Nam",
+    "TradeName": "Vietnam Bank for Social Policies",
+    "Code": "VBSP",
+    "Website": "vbsp.org.vn",
+    "Type": "Ngân hàng nhà nước"
+  },
+  {
+    "STT": "2",
+    "Name": "NH Phát triển Việt Nam",
+    "TradeName": "The Vietnam Development Bank",
+    "Code": "VDB",
+    "Website": "vdb.gov.vn",
+    "Type": "Ngân hàng nhà nước"
+  },
+  {
+    "STT": "3",
+    "Name": "NH Hợp tác xã Việt Nam",
+    "TradeName": "Central People's Credit Fund",
+    "Code": "CCF",
+    "Website": "ccf.vn",
+    "Type": "Ngân hàng nhà nước"
+  },
+  {
+    "STT": "4",
+    "Name": "NHTMTNHHMTV Xây dựng Việt Nam",
+    "TradeName": "Vietnam Construction Commercial One Member Limited Liability Bank",
+    "Code": "CB",
+    "Website": "cbbank.vn",
+    "Type": "Ngân hàng nhà nước"
+  },
+  {
+    "STT": "5",
+    "Name": "NHTMTNHHMTV Đại Dương",
+    "TradeName": "Ocean Commercial One Member Limited Liability Bank",
+    "Code": "Oceanbank",
+    "Website": "oceanbank.vn",
+    "Type": "Ngân hàng nhà nước"
+  },
+  {
+    "STT": "6",
+    "Name": "NHTMTNHHMTV Dầu Khí Toàn Cầu",
+    "TradeName": "Global Petro Bank",
+    "Code": "GPBank",
+    "Website": "gpbank.com.vn",
+    "Type": "Ngân hàng nhà nước"
+  },
+  {
+    "STT": "7",
+    "Name": "NH Nông nghiệp và Phát triển Nông thôn VN",
+    "TradeName": "Vietnam Bank for Agriculture and Rural Development",
+    "Code": "Agribank",
+    "Website": "agribank.com.vn",
+    "Type": "Ngân hàng nhà nước"
+  },
+  {
+    "STT": "8",
+    "Name": "NHTMCP Á Châu",
+    "TradeName": "Asia Commercial Joint Stock Bank",
+    "Code": "ACB",
+    "Website": "acb.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "9",
+    "Name": "NHTMCP Tiên Phong",
+    "TradeName": "Tien Phong Commercial Joint Stock Bank",
+    "Code": "TPBank",
+    "Website": "tpb.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "10",
+    "Name": "NHTMCP Đông Á",
+    "TradeName": "DongA Commercial Joint Stock Bank",
+    "Code": "DongABank",
+    "Website": "dongabank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "11",
+    "Name": "NHTMCP Đông Nam Á",
+    "TradeName": "Southeast Asia Joint Stock Commercial Bank",
+    "Code": "SeABank",
+    "Website": "seabank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "12",
+    "Name": "NHTMCP An Bình",
+    "TradeName": "An Binh Commercial Joint Stock Bank",
+    "Code": "ABBANK",
+    "Website": "abbank.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "13",
+    "Name": "NHTMCP Bắc Á",
+    "TradeName": "Bac A Commercial Joint Stock Bank",
+    "Code": "BacABank",
+    "Website": "baca-bank.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "14",
+    "Name": "NHTMCP Bản Việt",
+    "TradeName": "Viet Capital Commercial Joint Stock Bank",
+    "Code": "VietCapitalBank",
+    "Website": "vietcapitalbank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "15",
+    "Name": "NHTMCP Hàng hải Việt Nam",
+    "TradeName": "Vietnam Maritime Commercial Joint Stock Bank",
+    "Code": "MSB",
+    "Website": "msb.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "16",
+    "Name": "NHTMCP Kỹ Thương Việt Nam",
+    "TradeName": "VietNam Technological and Commercial Joint Stock Bank",
+    "Code": "Techcombank",
+    "Website": "techcombank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "17",
+    "Name": "NHTMCP Kiên Long",
+    "TradeName": "Kien Long Commercial Joint Stock Bank",
+    "Code": "KienLongBank",
+    "Website": "kienlongbank.com",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "18",
+    "Name": "NHTMCP Nam Á",
+    "TradeName": "Nam A Commercial Joint Stock Bank",
+    "Code": "Nam A Bank",
+    "Website": "namabank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "19",
+    "Name": "NHTMCP Quốc Dân",
+    "TradeName": "National Citizen Commercial Joint Stock Bank",
+    "Code": "NCB",
+    "Website": "ncb-bank.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "20",
+    "Name": "NHTMCP Việt Nam Thịnh Vượng",
+    "TradeName": "Vietnam Prosperity Joint-Stock Commercial Bank",
+    "Code": "VPBank",
+    "Website": "vpbank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "21",
+    "Name": "NHTMCP Phát triển Thành phố Hồ Chí Minh",
+    "TradeName": "Ho Chi Minh City Development Joint Stock Commercial Bank",
+    "Code": "HDBank",
+    "Website": "hdbank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "22",
+    "Name": "NHTMCP Phương Đông",
+    "TradeName": "Orient Commercial Joint Stock Bank",
+    "Code": "OCB",
+    "Website": "ocb.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "23",
+    "Name": "NHTMCP Quân đội",
+    "TradeName": "Military Commercial Joint Stock Bank",
+    "Code": "MBB",
+    "Website": "mbbank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "24",
+    "Name": "NHTMCP Đại chúng Việt Nam",
+    "TradeName": "Vietnam Public Joint Stock Commercial Bank",
+    "Code": "PVcomBank",
+    "Website": "pvcombank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "25",
+    "Name": "NHTMCP Quốc Tế ",
+    "TradeName": "Vietnam International and Commercial Joint Stock Bank",
+    "Code": "VIB",
+    "Website": "vib.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "26",
+    "Name": "NHTMCP Sài Gòn",
+    "TradeName": "Sai Gon Commercial Joint Stock Bank",
+    "Code": "SCB",
+    "Website": "scb.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "27",
+    "Name": "NHTMCP Sài Gòn Công Thương",
+    "TradeName": "Saigon Bank For Industry And Trade Commercial Joint Stock Bank",
+    "Code": "Saigonbank",
+    "Website": "saigonbank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "28",
+    "Name": "NHTMCP Sài Gòn-Hà Nội",
+    "TradeName": "Saigon Hanoi Commercial Joint Stock Bank",
+    "Code": "SHB",
+    "Website": "shb.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "29",
+    "Name": "NHTMCP Sài Gòn Thương Tín",
+    "TradeName": "Sai Gon Thuong Tin Commercial Joint Stock Bank",
+    "Code": "Sacombank",
+    "Website": "sacombank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "30",
+    "Name": "NHTMCP Việt Á",
+    "TradeName": "Vietnam Asia Commercial Joint Stock Bank",
+    "Code": "VietABank",
+    "Website": "vietabank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "31",
+    "Name": "NHTMCP Bảo Việt",
+    "TradeName": "Bao Viet Joint Stock Commercial Bank",
+    "Code": "BaoVietBank",
+    "Website": "baovietbank.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "32",
+    "Name": "NHTMCP Việt Nam Thương Tín",
+    "TradeName": "Vietnam Thuong Tin Commercial Joint Stock Bank",
+    "Code": "VietBank",
+    "Website": "vietbank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "33",
+    "Name": "NHTMCP Xăng dầu Petrolimex",
+    "TradeName": "Joint Stock CommerciaPetrolimex Bank",
+    "Code": "PGBank",
+    "Website": "pgbank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "34",
+    "Name": "NHTMCP Xuất Nhập khẩu Việt Nam",
+    "TradeName": "Vietnam Joint Stock Commercia lVietnam Export Import Bank",
+    "Code": "Eximbank",
+    "Website": "eximbank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "35",
+    "Name": "NHTMCP Bưu điện Liên Việt",
+    "TradeName": "Joint stock commercial Lien Viet postal bank",
+    "Code": "LienVietPostBank",
+    "Website": "lienvietpostbank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "36",
+    "Name": "NHTMCP Ngoại Thương Việt Nam",
+    "TradeName": "JSC Bank for Foreign Trade of Vietnam",
+    "Code": "Vietcombank",
+    "Website": "vietcombank.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "37",
+    "Name": "NHTMCP Công Thương Việt Nam",
+    "TradeName": "Vietnam Joint Stock Commercial Bank for Industry and Trade",
+    "Code": "VietinBank",
+    "Website": "vietinbank.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "38",
+    "Name": "NHTMCP Đầu tư và Phát triển Việt Nam",
+    "TradeName": "JSC Bank for Investment and Development of Vietnam",
+    "Code": "BIDV",
+    "Website": "bidv.com.vn",
+    "Type": "Ngân hàng TMCP trong nước"
+  },
+  {
+    "STT": "39",
+    "Name": "NH TNHH MTV ANZ Việt Nam",
+    "TradeName": "ANZ Bank Vietnam Limited",
+    "Code": "ANZ Bank",
+    "Website": "anz.com",
+    "Type": "Ngân hàng nước ngoài"
+  },
+  {
+    "STT": "40",
+    "Name": "NH Deutsche Bank AG Vietnam",
+    "TradeName": "Deutsche Bank AG Vietnam",
+    "Code": "Deutsche Bank",
+    "Website": "db.com",
+    "Type": "Ngân hàng nước ngoài"
+  },
+  {
+    "STT": "41",
+    "Name": "NH Citibank Việt Nam",
+    "TradeName": "Citibank",
+    "Code": "Citibank",
+    "Website": "citibank.com.vn",
+    "Type": "Ngân hàng nước ngoài"
+  },
+  {
+    "STT": "42",
+    "Name": "NHTNHHMTV HSBC Việt Nam",
+    "TradeName": "HSBC Bank VietNam LTD",
+    "Code": "HSBC",
+    "Website": "hsbc.com.vn",
+    "Type": "Ngân hàng nước ngoài"
+  },
+  {
+    "STT": "43",
+    "Name": "NHTNHHMTV Standard Chartered Việt Nam",
+    "TradeName": "Standard Chartered Bank Vietnam Limited",
+    "Code": "Standard Chartered",
+    "Website": "standardchartered.com",
+    "Type": "Ngân hàng nước ngoài"
+  },
+  {
+    "STT": "44",
+    "Name": "NHTNHHMTV Shinhan Việt Nam",
+    "TradeName": "Shinhan Bank Vietnam Limited",
+    "Code": "SHBVN",
+    "Website": "shinhan.com.vn",
+    "Type": "Ngân hàng nước ngoài"
+  },
+  {
+    "STT": "45",
+    "Name": "NHTNHHMTV Hong Leong Việt Nam",
+    "TradeName": "Hong Leong Bank Vietnam Limited ",
+    "Code": "HLBVN",
+    "Website": "hlb.com.my",
+    "Type": "Ngân hàng nước ngoài"
+  },
+  {
+    "STT": "46",
+    "Name": "NH Mizuho",
+    "TradeName": "Mizuho Corporate Bank Ltd",
+    "Code": "Mizuho",
+    "Website": "mizuhobank.com",
+    "Type": "Ngân hàng nước ngoài"
+  },
+  {
+    "STT": "47",
+    "Name": "NH The Bank Of Tokyo Mitsubishi UFJ",
+    "TradeName": "The Bank Of Tokyo Mitsubishi UFJ",
+    "Code": "Tokyo-Mitsubishi UFJ",
+    "Website": "bk.mufg.jp",
+    "Type": "Ngân hàng nước ngoài"
+  },
+  {
+    "STT": "48",
+    "Name": "NH Sumitomo Mitsui Banking Corporation ",
+    "TradeName": "Sumitomo Mitsui Banking Corporation",
+    "Code": "Sumitomo Mitsui Bank",
+    "Website": "smbc.co.jp",
+    "Type": "Ngân hàng nước ngoài"
+  },
+  {
+    "STT": "49",
+    "Name": "NH Commonwealth Bank tại Việt Nam",
+    "TradeName": "Commonwealth Bank of Australia ",
+    "Code": "Commonwealth Bank",
+    "Website": "commbank.com.vn",
+    "Type": "Ngân hàng nước ngoài"
+  },
+  {
+    "STT": "50",
+    "Name": "NH Đầu tư và Phát triển Campuchia",
+    "TradeName": "Bank for Investment and Development of Cambodia",
+    "Code": "BIDC",
+    "Website": "bidc.com.kh",
+    "Type": "Ngân hàng nước ngoài"
+  },
+  {
+    "STT": "51",
+    "Name": "NH Indovina",
+    "TradeName": "Indovina Bank Ltd",
+    "Code": "IVB",
+    "Website": "indovinabank.com.vn",
+    "Type": "Ngân hàng liên doanh"
+  },
+  {
+    "STT": "52",
+    "Name": "NH Liên doanh Việt - Nga",
+    "TradeName": "Vietnam - Russia Joint Venture Bank",
+    "Code": "VRB",
+    "Website": "vrbank.com.vn",
+    "Type": "Ngân hàng liên doanh"
+  },
+  {
+    "STT": "53",
+    "Name": "NHTNHHMTV Public Việt Nam",
+    "TradeName": "Public Bank Vietnam Limited",
+    "Code": "PBVN",
+    "Website": "publicbank.com.vn",
+    "Type": "Ngân hàng liên doanh"
+  },
+  {
+    "STT": "54",
+    "Name": "NH Liên doanh Việt - Thái",
+    "TradeName": "The Siam Commercial Bank Public Company Limited ",
+    "Code": "VSB",
+    "Website": "vsb.com.vn",
+    "Type": "Ngân hàng liên doanh"
+  },
+  {
+    "STT": "55",
+    "Name": "NH Liên doanh Việt - Lào",
+    "TradeName": "Lao Viet Joint Venture Bank",
+    "Code": "Laovietbank",
+    "Website": "lao-vietbank.com",
+    "Type": "Ngân hàng liên doanh"
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\bin\Debug\netcoreapp2.1\IPA.deps.json
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\bin\Debug\netcoreapp2.1\IPA.runtimeconfig.json
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\bin\Debug\netcoreapp2.1\IPA.runtimeconfig.dev.json
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\bin\Debug\netcoreapp2.1\IPA.dll
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\bin\Debug\netcoreapp2.1\IPA.pdb
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\obj\Debug\netcoreapp2.1\IPA.csprojAssemblyReference.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\obj\Debug\netcoreapp2.1\IPA.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\obj\Debug\netcoreapp2.1\IPA.RazorAssemblyInfo.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\obj\Debug\netcoreapp2.1\IPA.RazorAssemblyInfo.cs
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\obj\Debug\netcoreapp2.1\IPA.AssemblyInfoInputs.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\obj\Debug\netcoreapp2.1\IPA.AssemblyInfo.cs
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\obj\Debug\netcoreapp2.1\IPA.RazorTargetAssemblyInfo.cache
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\obj\Debug\netcoreapp2.1\IPA.dll
+C:\Users\trinh\Downloads\Combined_AspId_and_EFStorage\IPA\obj\Debug\netcoreapp2.1\IPA.pdb
